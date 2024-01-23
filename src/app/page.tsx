@@ -48,12 +48,12 @@ export default function Home() {
 						<div></div>
 					</div>
 
-					<div id="main_text" className='  mx-20  flex justify-center'>
+					<div id="main_text" className='   flex justify-center'>
 						<MainText />
 					</div>
 				</div>
 				<div>
-					<div className='flex justify-center items-center mt-10'>
+					<div className='flex justify-center items-center mt-3 sm:mt-6 lg::mt-10'>
 						<hr id="hr" />
 					</div>
 					<div className='text-white text-center my-1'>Dive into the realm of technology</div>
